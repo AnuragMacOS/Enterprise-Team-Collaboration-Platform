@@ -1,1 +1,2 @@
 # Enterprise-Team-Collaboration-Platform
+Inspired from Slack
